@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "0d8c7e5f-6750-32d1-a05d-539337216b89",
+    "name": "Felipe",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5e29eabf-4b08-3481-ba96-83a89ba3a817",
+    "name": "Sharko",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "905311c7-5418-3bd4-a1b1-6d0141302944",
+    "name": "Lugaid",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  }
+]
